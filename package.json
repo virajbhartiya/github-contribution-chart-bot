@@ -1,0 +1,17 @@
+{
+  "name": "github-bot",
+  "version": "1.0.0",
+  "description": "github bot to edit to contribution graph",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Viraj Bhartiya",
+  "license": "MIT",
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "moment": "^2.29.1",
+    "random": "^3.0.6",
+    "simple-git": "^2.40.0"
+  }
+}
